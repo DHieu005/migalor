@@ -1,0 +1,11 @@
+.idea
+
+.venv
+.pdm-python
+.ruff_cache
+
+build
+dist
+
+*.pyc
+__pycache__
